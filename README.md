@@ -1,4 +1,5 @@
-# Role-playingGame
-Rpg role playing game made using Html, css, JS.
+## Welcome to Dragon Repeller. You must defeat the dragon that is preventing people from leaving the town. You are in the town square. Where do you want to go?
 
-### You can try out the game at:-  [Rpg](https://wtfayxn.github.io/Role-playingGame)
+#### TRY IT [OUT](https://wtfayxn.github.io/Role-playingGame/)
+
+Made using html, css, js.
